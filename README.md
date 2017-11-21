@@ -15,4 +15,5 @@ Vaadin - https://vaadin.com/ - Önyüz teknolojisi
 Spring - Orta katman teknolojisi
 
 Ide olarak IntelliJ IDEA kullanılmıştır.
+
 Proje çalıştırıldıktan sonra localhost:8080 adresinden inceleyebilirsiniz.
